@@ -71,7 +71,7 @@ namespace Ticari_Otomasyon
 
             ajanda();
 
-           // haberler();
+           // haberler();  sadsd
 
             firmalistesi();
 
